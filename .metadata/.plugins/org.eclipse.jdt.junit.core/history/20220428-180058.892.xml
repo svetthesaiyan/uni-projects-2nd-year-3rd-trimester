@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CowsandbullsApplicationTests" project="Cows &amp; Bulls" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="pu.fmi.cowbull.CowsandbullsApplicationTests" time="0.469" displayname="CowsandbullsApplicationTests" uniqueid="[engine:junit-jupiter]/[class:pu.fmi.cowbull.CowsandbullsApplicationTests]">
+    <testcase name="contextLoads" classname="pu.fmi.cowbull.CowsandbullsApplicationTests" time="0.469" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:pu.fmi.cowbull.CowsandbullsApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>

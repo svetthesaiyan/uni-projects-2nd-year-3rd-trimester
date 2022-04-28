@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GameServiceImplTest" project="Cows &amp; Bulls" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="pu.fmi.cowbull.GameServiceImplTest" time="0.0" displayname="GameServiceImplTest" uniqueid="[engine:junit-jupiter]/[class:pu.fmi.cowbull.GameServiceImplTest]">
+    <testcase name="test" classname="pu.fmi.cowbull.GameServiceImplTest" time="0.0" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:pu.fmi.cowbull.GameServiceImplTest]/[method:test()]"/>
+  </testsuite>
+</testrun>
